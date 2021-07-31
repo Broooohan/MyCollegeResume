@@ -1,0 +1,74 @@
+{
+	"basics": {
+		"name": "Rohan Routh",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/77372476?s=400&u=b8ac9b80d772c1f00d7d341412ca43c47675b54d&v=4",
+		"email": "2020kuec2064@iiitkota.ac.in",
+		"phone": "6376014387",
+		"website": "https://broooohan.github.io/Rohan/",
+		"summary": "Hey!! Rohan, this side. I am a student who's currently pursuing his Engineering. As of now I live in CoochBehar, West Bengal. Generally you'll find me busy on my laptop or phone. Besides that I'm greatly enthusiastic about learning various Development techniques and coding as well. You can call me an ambivert. I like to meet people and listen to their ideas, philosophies and thinking. That's pretty much it.",
+		"location": {
+			"address": "RRN Road near Rajmata Dighi",
+			"postalCode": "736101",
+			"city": "Coochbehar",
+			"countryCode": "India",
+			"region": "West Bengal"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "Broooohan",
+				"url": "https://www.twitter.com/Broooohan"
+			},
+			{
+				"network": "Github",
+				"username": "Broooohan",
+				"url": "https://www.github.com/Broooohan/"
+			},
+			{
+				"network": "linkedin",
+				"username": "rohan-routh-84b213207",
+				"url": "https://www.linkedin.com/in/rohan-routh-84b213207/"
+			},
+			{
+				"network": "Instagram",
+				"username": "broooohan",
+				"url": "https://instagram.com/broooohan"
+			}
+		]
+	},
+	"work": [{
+		"company": "IIITians Network",
+		"position": "Core Team Member(Technical team)",
+		"website": "https://iiitiansnetwork.com/",
+		"startDate": "2020-08-04//Take care about Date Format"
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information Technology, Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor",
+		"startDate": "2020-07-12",
+		"endDate": "2024 (expected)",
+		"gpa": "8.64",
+		"courses": [
+			"Electronics and Communication Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "--Title---",
+		"awarder": "---Receiverd By ---",
+		"date": "2020-08-21//Date"
+	}],
+	"publications": [{
+		"title": "My personal Website",
+		"details": "Build by own Webiste on MERN that tells about me",
+		"link": "https://github.com/Broooohan/Rohan"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "BootStrap", "Node", "Express", "MongoDB", "BootStrap"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Football", "Cricket", "Standup", "Drama", "Drawing"]
+	}]
+}
